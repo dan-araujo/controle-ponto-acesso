@@ -2,8 +2,8 @@
  Back-End de um Sistema de Controle de Acesso com API Rest
 ## Tecnologias Utilizadas:
 * Java 
-* Spring boot 
-* Spring Data Jpa 
+* Spring Boot 
+* Spring Data JPA
 * Hibernate 
 * Lombok 
 * Swagger
